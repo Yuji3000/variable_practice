@@ -4,3 +4,7 @@ fun = "always"
 age = 1000
 hours_sleeping_a_day = 11
 claws = 2
+running_amount = 2.1
+gallons_drank = 25.2
+fur = true
+alive = true
